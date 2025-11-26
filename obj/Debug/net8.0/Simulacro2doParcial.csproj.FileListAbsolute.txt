@@ -1,0 +1,14 @@
+C:\Users\Matt_\OneDrive\Desktop\Nueva carpeta (2)\Simulacro2doParcial\bin\Debug\net8.0\Simulacro2doParcial.exe
+C:\Users\Matt_\OneDrive\Desktop\Nueva carpeta (2)\Simulacro2doParcial\bin\Debug\net8.0\Simulacro2doParcial.deps.json
+C:\Users\Matt_\OneDrive\Desktop\Nueva carpeta (2)\Simulacro2doParcial\bin\Debug\net8.0\Simulacro2doParcial.runtimeconfig.json
+C:\Users\Matt_\OneDrive\Desktop\Nueva carpeta (2)\Simulacro2doParcial\bin\Debug\net8.0\Simulacro2doParcial.dll
+C:\Users\Matt_\OneDrive\Desktop\Nueva carpeta (2)\Simulacro2doParcial\bin\Debug\net8.0\Simulacro2doParcial.pdb
+C:\Users\Matt_\OneDrive\Desktop\Nueva carpeta (2)\Simulacro2doParcial\obj\Debug\net8.0\Simulacro2doParcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matt_\OneDrive\Desktop\Nueva carpeta (2)\Simulacro2doParcial\obj\Debug\net8.0\Simulacro2doParcial.AssemblyInfoInputs.cache
+C:\Users\Matt_\OneDrive\Desktop\Nueva carpeta (2)\Simulacro2doParcial\obj\Debug\net8.0\Simulacro2doParcial.AssemblyInfo.cs
+C:\Users\Matt_\OneDrive\Desktop\Nueva carpeta (2)\Simulacro2doParcial\obj\Debug\net8.0\Simulacro2doParcial.csproj.CoreCompileInputs.cache
+C:\Users\Matt_\OneDrive\Desktop\Nueva carpeta (2)\Simulacro2doParcial\obj\Debug\net8.0\Simulacro2doParcial.dll
+C:\Users\Matt_\OneDrive\Desktop\Nueva carpeta (2)\Simulacro2doParcial\obj\Debug\net8.0\refint\Simulacro2doParcial.dll
+C:\Users\Matt_\OneDrive\Desktop\Nueva carpeta (2)\Simulacro2doParcial\obj\Debug\net8.0\Simulacro2doParcial.pdb
+C:\Users\Matt_\OneDrive\Desktop\Nueva carpeta (2)\Simulacro2doParcial\obj\Debug\net8.0\Simulacro2doParcial.genruntimeconfig.cache
+C:\Users\Matt_\OneDrive\Desktop\Nueva carpeta (2)\Simulacro2doParcial\obj\Debug\net8.0\ref\Simulacro2doParcial.dll

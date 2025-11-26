@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matt_\\OneDrive\\Desktop\\Simulacro2doParcial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A759BF3-5D35-46A6-BCFA-9F12F8BE21E1}|Simulacro2doParcial.csproj|c:\\users\\matt_\\onedrive\\desktop\\simulacro2doparcial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A759BF3-5D35-46A6-BCFA-9F12F8BE21E1}|Simulacro2doParcial.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A759BF3-5D35-46A6-BCFA-9F12F8BE21E1}|Simulacro2doParcial.csproj|c:\\users\\matt_\\onedrive\\desktop\\simulacro2doparcial\\controllers\\checkoutfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A759BF3-5D35-46A6-BCFA-9F12F8BE21E1}|Simulacro2doParcial.csproj|solutionrelative:controllers\\checkoutfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A759BF3-5D35-46A6-BCFA-9F12F8BE21E1}|Simulacro2doParcial.csproj|c:\\users\\matt_\\onedrive\\desktop\\simulacro2doparcial\\builder\\pedidobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A759BF3-5D35-46A6-BCFA-9F12F8BE21E1}|Simulacro2doParcial.csproj|solutionrelative:builder\\pedidobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A759BF3-5D35-46A6-BCFA-9F12F8BE21E1}|Simulacro2doParcial.csproj|c:\\users\\matt_\\onedrive\\desktop\\simulacro2doparcial\\builder\\ipedidobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A759BF3-5D35-46A6-BCFA-9F12F8BE21E1}|Simulacro2doParcial.csproj|solutionrelative:builder\\ipedidobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A759BF3-5D35-46A6-BCFA-9F12F8BE21E1}|Simulacro2doParcial.csproj|c:\\users\\matt_\\onedrive\\desktop\\simulacro2doparcial\\repositories\\repositoriojson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A759BF3-5D35-46A6-BCFA-9F12F8BE21E1}|Simulacro2doParcial.csproj|solutionrelative:repositories\\repositoriojson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A759BF3-5D35-46A6-BCFA-9F12F8BE21E1}|Simulacro2doParcial.csproj|c:\\users\\matt_\\onedrive\\desktop\\simulacro2doparcial\\repositories\\irepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A759BF3-5D35-46A6-BCFA-9F12F8BE21E1}|Simulacro2doParcial.csproj|solutionrelative:repositories\\irepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A759BF3-5D35-46A6-BCFA-9F12F8BE21E1}|Simulacro2doParcial.csproj|c:\\users\\matt_\\onedrive\\desktop\\simulacro2doparcial\\services\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A759BF3-5D35-46A6-BCFA-9F12F8BE21E1}|Simulacro2doParcial.csproj|solutionrelative:services\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A759BF3-5D35-46A6-BCFA-9F12F8BE21E1}|Simulacro2doParcial.csproj|c:\\users\\matt_\\onedrive\\desktop\\simulacro2doparcial\\services\\strategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A759BF3-5D35-46A6-BCFA-9F12F8BE21E1}|Simulacro2doParcial.csproj|solutionrelative:services\\strategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A759BF3-5D35-46A6-BCFA-9F12F8BE21E1}|Simulacro2doParcial.csproj|c:\\users\\matt_\\onedrive\\desktop\\simulacro2doparcial\\strategies\\ienviostrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A759BF3-5D35-46A6-BCFA-9F12F8BE21E1}|Simulacro2doParcial.csproj|solutionrelative:strategies\\ienviostrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A759BF3-5D35-46A6-BCFA-9F12F8BE21E1}|Simulacro2doParcial.csproj|c:\\users\\matt_\\onedrive\\desktop\\simulacro2doparcial\\strategies\\envioretiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A759BF3-5D35-46A6-BCFA-9F12F8BE21E1}|Simulacro2doParcial.csproj|solutionrelative:strategies\\envioretiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A759BF3-5D35-46A6-BCFA-9F12F8BE21E1}|Simulacro2doParcial.csproj|c:\\users\\matt_\\onedrive\\desktop\\simulacro2doparcial\\strategies\\enviomoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A759BF3-5D35-46A6-BCFA-9F12F8BE21E1}|Simulacro2doParcial.csproj|solutionrelative:strategies\\enviomoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A759BF3-5D35-46A6-BCFA-9F12F8BE21E1}|Simulacro2doParcial.csproj|c:\\users\\matt_\\onedrive\\desktop\\simulacro2doparcial\\strategies\\enviocorreo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A759BF3-5D35-46A6-BCFA-9F12F8BE21E1}|Simulacro2doParcial.csproj|solutionrelative:strategies\\enviocorreo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A759BF3-5D35-46A6-BCFA-9F12F8BE21E1}|Simulacro2doParcial.csproj|c:\\users\\matt_\\onedrive\\desktop\\simulacro2doparcial\\observers\\logisticaobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A759BF3-5D35-46A6-BCFA-9F12F8BE21E1}|Simulacro2doParcial.csproj|solutionrelative:observers\\logisticaobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A759BF3-5D35-46A6-BCFA-9F12F8BE21E1}|Simulacro2doParcial.csproj|c:\\users\\matt_\\onedrive\\desktop\\simulacro2doparcial\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A759BF3-5D35-46A6-BCFA-9F12F8BE21E1}|Simulacro2doParcial.csproj|solutionrelative:models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A759BF3-5D35-46A6-BCFA-9F12F8BE21E1}|Simulacro2doParcial.csproj|c:\\users\\matt_\\onedrive\\desktop\\simulacro2doparcial\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A759BF3-5D35-46A6-BCFA-9F12F8BE21E1}|Simulacro2doParcial.csproj|solutionrelative:models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A759BF3-5D35-46A6-BCFA-9F12F8BE21E1}|Simulacro2doParcial.csproj|c:\\users\\matt_\\onedrive\\desktop\\simulacro2doparcial\\observers\\clienteobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A759BF3-5D35-46A6-BCFA-9F12F8BE21E1}|Simulacro2doParcial.csproj|solutionrelative:observers\\clienteobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A759BF3-5D35-46A6-BCFA-9F12F8BE21E1}|Simulacro2doParcial.csproj|c:\\users\\matt_\\onedrive\\desktop\\simulacro2doparcial\\observers\\ipedidoobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A759BF3-5D35-46A6-BCFA-9F12F8BE21E1}|Simulacro2doParcial.csproj|solutionrelative:observers\\ipedidoobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CheckoutFacade.cs",
+              "DocumentMoniker": "C:\\Users\\Matt_\\OneDrive\\Desktop\\Simulacro2doParcial\\Controllers\\CheckoutFacade.cs",
+              "RelativeDocumentMoniker": "Controllers\\CheckoutFacade.cs",
+              "ToolTip": "C:\\Users\\Matt_\\OneDrive\\Desktop\\Simulacro2doParcial\\Controllers\\CheckoutFacade.cs",
+              "RelativeToolTip": "Controllers\\CheckoutFacade.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA2wFAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T11:36:14.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RepositorioJson.cs",
+              "DocumentMoniker": "C:\\Users\\Matt_\\OneDrive\\Desktop\\Simulacro2doParcial\\Repositories\\RepositorioJson.cs",
+              "RelativeDocumentMoniker": "Repositories\\RepositorioJson.cs",
+              "ToolTip": "C:\\Users\\Matt_\\OneDrive\\Desktop\\Simulacro2doParcial\\Repositories\\RepositorioJson.cs",
+              "RelativeToolTip": "Repositories\\RepositorioJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T12:25:35.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PedidoBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Matt_\\OneDrive\\Desktop\\Simulacro2doParcial\\Builder\\PedidoBuilder.cs",
+              "RelativeDocumentMoniker": "Builder\\PedidoBuilder.cs",
+              "ToolTip": "C:\\Users\\Matt_\\OneDrive\\Desktop\\Simulacro2doParcial\\Builder\\PedidoBuilder.cs",
+              "RelativeToolTip": "Builder\\PedidoBuilder.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T22:34:11.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Matt_\\OneDrive\\Desktop\\Simulacro2doParcial\\Repositories\\IRepositorio.cs",
+              "RelativeDocumentMoniker": "Repositories\\IRepositorio.cs",
+              "ToolTip": "C:\\Users\\Matt_\\OneDrive\\Desktop\\Simulacro2doParcial\\Repositories\\IRepositorio.cs",
+              "RelativeToolTip": "Repositories\\IRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T12:20:18.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matt_\\OneDrive\\Desktop\\Simulacro2doParcial\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Matt_\\OneDrive\\Desktop\\Simulacro2doParcial\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T22:01:11.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StrategyFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Matt_\\OneDrive\\Desktop\\Simulacro2doParcial\\Services\\StrategyFactory.cs",
+              "RelativeDocumentMoniker": "Services\\StrategyFactory.cs",
+              "ToolTip": "C:\\Users\\Matt_\\OneDrive\\Desktop\\Simulacro2doParcial\\Services\\StrategyFactory.cs",
+              "RelativeToolTip": "Services\\StrategyFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T11:42:26.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EnvioCorreo.cs",
+              "DocumentMoniker": "C:\\Users\\Matt_\\OneDrive\\Desktop\\Simulacro2doParcial\\Strategies\\EnvioCorreo.cs",
+              "RelativeDocumentMoniker": "Strategies\\EnvioCorreo.cs",
+              "ToolTip": "C:\\Users\\Matt_\\OneDrive\\Desktop\\Simulacro2doParcial\\Strategies\\EnvioCorreo.cs",
+              "RelativeToolTip": "Strategies\\EnvioCorreo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T23:26:02.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EnvioMoto.cs",
+              "DocumentMoniker": "C:\\Users\\Matt_\\OneDrive\\Desktop\\Simulacro2doParcial\\Strategies\\EnvioMoto.cs",
+              "RelativeDocumentMoniker": "Strategies\\EnvioMoto.cs",
+              "ToolTip": "C:\\Users\\Matt_\\OneDrive\\Desktop\\Simulacro2doParcial\\Strategies\\EnvioMoto.cs",
+              "RelativeToolTip": "Strategies\\EnvioMoto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T22:58:04.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EnvioRetiro.cs",
+              "DocumentMoniker": "C:\\Users\\Matt_\\OneDrive\\Desktop\\Simulacro2doParcial\\Strategies\\EnvioRetiro.cs",
+              "RelativeDocumentMoniker": "Strategies\\EnvioRetiro.cs",
+              "ToolTip": "C:\\Users\\Matt_\\OneDrive\\Desktop\\Simulacro2doParcial\\Strategies\\EnvioRetiro.cs",
+              "RelativeToolTip": "Strategies\\EnvioRetiro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T23:23:37.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEnvioStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\Matt_\\OneDrive\\Desktop\\Simulacro2doParcial\\Strategies\\IEnvioStrategy.cs",
+              "RelativeDocumentMoniker": "Strategies\\IEnvioStrategy.cs",
+              "ToolTip": "C:\\Users\\Matt_\\OneDrive\\Desktop\\Simulacro2doParcial\\Strategies\\IEnvioStrategy.cs",
+              "RelativeToolTip": "Strategies\\IEnvioStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T22:53:45.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LogisticaObserver.cs",
+              "DocumentMoniker": "C:\\Users\\Matt_\\OneDrive\\Desktop\\Simulacro2doParcial\\Observers\\LogisticaObserver.cs",
+              "RelativeDocumentMoniker": "Observers\\LogisticaObserver.cs",
+              "ToolTip": "C:\\Users\\Matt_\\OneDrive\\Desktop\\Simulacro2doParcial\\Observers\\LogisticaObserver.cs",
+              "RelativeToolTip": "Observers\\LogisticaObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T00:47:57.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPedidoBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Matt_\\OneDrive\\Desktop\\Simulacro2doParcial\\Builder\\IPedidoBuilder.cs",
+              "RelativeDocumentMoniker": "Builder\\IPedidoBuilder.cs",
+              "ToolTip": "C:\\Users\\Matt_\\OneDrive\\Desktop\\Simulacro2doParcial\\Builder\\IPedidoBuilder.cs",
+              "RelativeToolTip": "Builder\\IPedidoBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T22:22:46.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PedidoService.cs",
+              "DocumentMoniker": "C:\\Users\\Matt_\\OneDrive\\Desktop\\Simulacro2doParcial\\Services\\PedidoService.cs",
+              "RelativeDocumentMoniker": "Services\\PedidoService.cs",
+              "ToolTip": "C:\\Users\\Matt_\\OneDrive\\Desktop\\Simulacro2doParcial\\Services\\PedidoService.cs",
+              "RelativeToolTip": "Services\\PedidoService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T12:01:51.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IPedidoObserver.cs",
+              "DocumentMoniker": "C:\\Users\\Matt_\\OneDrive\\Desktop\\Simulacro2doParcial\\Observers\\IPedidoObserver.cs",
+              "RelativeDocumentMoniker": "Observers\\IPedidoObserver.cs",
+              "ToolTip": "C:\\Users\\Matt_\\OneDrive\\Desktop\\Simulacro2doParcial\\Observers\\IPedidoObserver.cs",
+              "RelativeToolTip": "Observers\\IPedidoObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T23:53:10.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClienteObserver.cs",
+              "DocumentMoniker": "C:\\Users\\Matt_\\OneDrive\\Desktop\\Simulacro2doParcial\\Observers\\ClienteObserver.cs",
+              "RelativeDocumentMoniker": "Observers\\ClienteObserver.cs",
+              "ToolTip": "C:\\Users\\Matt_\\OneDrive\\Desktop\\Simulacro2doParcial\\Observers\\ClienteObserver.cs",
+              "RelativeToolTip": "Observers\\ClienteObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T23:54:39.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\Matt_\\OneDrive\\Desktop\\Simulacro2doParcial\\Models\\Pedido.cs",
+              "RelativeDocumentMoniker": "Models\\Pedido.cs",
+              "ToolTip": "C:\\Users\\Matt_\\OneDrive\\Desktop\\Simulacro2doParcial\\Models\\Pedido.cs",
+              "RelativeToolTip": "Models\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T22:10:34.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Matt_\\OneDrive\\Desktop\\Simulacro2doParcial\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\Matt_\\OneDrive\\Desktop\\Simulacro2doParcial\\Models\\Producto.cs",
+              "RelativeToolTip": "Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T22:03:40.567Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
