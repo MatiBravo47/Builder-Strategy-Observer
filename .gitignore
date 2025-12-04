@@ -3,3 +3,12 @@
 *.user
 *.suo
 *.cache
+
+
+bin/
+obj/
+
+
+# Configs locales
+*.user
+*.suo
