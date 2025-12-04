@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Simulacro2doParcial.Observers
+namespace Observers
 {
     public interface IPedidoObserver
     {

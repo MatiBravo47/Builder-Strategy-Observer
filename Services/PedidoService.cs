@@ -1,5 +1,5 @@
-﻿using Simulacro2doParcial.Builder;
-using Simulacro2doParcial.Observers;
+﻿using Builder;
+using Observers;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Models;
 
-namespace Simulacro2doParcial.Services
+namespace Services
 {
     public class PedidoService
     {

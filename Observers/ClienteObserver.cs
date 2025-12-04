@@ -1,5 +1,4 @@
 ﻿using Models;
-using Simulacro2doParcial.Observers;
 using System;
 using System.Collections.Generic;
 using System.Linq;

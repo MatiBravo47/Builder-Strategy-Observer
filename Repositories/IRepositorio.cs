@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Simulacro2doParcial.Repositories
+namespace Repositories
 {
     public interface IRepositorio<T>
     {

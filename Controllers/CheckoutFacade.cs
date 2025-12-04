@@ -1,7 +1,6 @@
 ﻿using Services;
-using Simulacro2doParcial.Builder;
-using Simulacro2doParcial.Repositories;
-using Simulacro2doParcial.Services;
+using Builder;
+using Repositories;
 using Models;
 using System;
 using System.Collections.Generic;
@@ -9,7 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Simulacro2doParcial.Controllers
+namespace Controllers
 {
     public class CheckoutFacade
     {

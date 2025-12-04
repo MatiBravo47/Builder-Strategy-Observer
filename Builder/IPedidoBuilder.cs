@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using Models;
 using Strategies;
 
-namespace Simulacro2doParcial.Builder
+namespace Builder
 {
     public interface IPedidoBuilder
     {

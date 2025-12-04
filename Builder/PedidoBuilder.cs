@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Strategies;
 
-namespace Simulacro2doParcial.Builder
+namespace Builder
 {
     public class PedidoBuilder : IPedidoBuilder
     {
@@ -27,10 +27,12 @@ namespace Simulacro2doParcial.Builder
             _pedido.ClienteNombre = nombre.Trim();
             _pedido.Direccion = direccion.Trim();
         }
+
         public void AddProducto(string nombre, decimal precio, int cantidad) 
         {
             _pedido.Items.Add(new Producto { Nombre = nombre.Trim(), Precio = precio, Cantidad = cantidad });
         }
+
         public void SetEnvio(IEnvioStrategy strategy) 
         {
             _envio = strategy;
@@ -44,6 +46,11 @@ namespace Simulacro2doParcial.Builder
             if (string.IsNullOrWhiteSpace(_pedido.Direccion)) throw new InvalidOperationException("Falta la direccion del cliente");
             if (_envio is null) throw new InvalidOperationException("No se selecciono el envio");
 
+
+            // Calcular el total
+            var subtotal = _pedido.Items.Sum(i => i.Total);
+            var costoEnvio = _envio.CalcularCosto(_pedido);
+            _pedido.Total = (int)(subtotal + costoEnvio);  // ← Agregar esto
             return _pedido;
 
         }

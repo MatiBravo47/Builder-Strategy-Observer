@@ -1,12 +1,10 @@
-﻿using Simulacro2doParcial.Repositories;
+﻿using Repositories;
 using Models;
-using Simulacro2doParcial.Builder;
+using Builder;
 using Strategies;
 using Services;
-using Simulacro2doParcial.Services;
 using Observers;
-using Simulacro2doParcial.Observers;
-using Simulacro2doParcial.Controllers;
+using Controllers;
 
 namespace ParcialPedidos 
 {
@@ -85,21 +83,21 @@ namespace ParcialPedidos
                 }
                 catch (Exception ex)
                 {
-                    Console.WriteLine("Opcion invalida");
+                    Console.WriteLine($"Error: {ex.Message}");
                     Pausa();
-                    break;
                 }
             }
         }
 
         static void CargarCliente(CheckoutFacade facade) 
         {
-            Console.Write("Nombre del cliente");
+            Console.Write("Nombre del cliente: ");
             var nombre = Console.ReadLine() ?? string.Empty;
             Console.Write("Direccion: ");
             var direccion = Console.ReadLine() ?? string.Empty;
 
             facade.SetDatosCliente(nombre, direccion);
+            
             Console.WriteLine("Datos cargados.");
             Pausa();
         }
@@ -136,6 +134,5 @@ namespace ParcialPedidos
             Console.WriteLine("Presione una tecla para continuar..");
             Console.ReadKey();
         }
-        }
-
     }
+}
