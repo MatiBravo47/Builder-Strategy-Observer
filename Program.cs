@@ -27,7 +27,7 @@ namespace ParcialPedidos
             var logisticaObs = new LogisticaObserver();
 
             pedidoService.Suscribir(clienteObs);
-            pedidoService.Desuscribir(logisticaObs);
+            pedidoService.Suscribir(logisticaObs);
 
             var facade = new CheckoutFacade(builder, factory, pedidoService, repo);
 

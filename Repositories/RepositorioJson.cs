@@ -32,9 +32,9 @@ namespace Repositories
                     var list = JsonSerializer.Deserialize<List<T>>(json, _opts);
                     if (list != null) data = list;
                 }
-                catch 
+                catch (Exception ex)
                 {
-                    Console.WriteLine("Error al abrir el archivo!");
+                    throw new InvalidOperationException("Error al leer el archivo JSON", ex);
                 }
             }
             data.Add(entidad);

@@ -16,8 +16,9 @@ namespace Services
         public void Suscribir(IPedidoObserver observer) => _observers.Add(observer);
         public void Desuscribir(IPedidoObserver observer) => _observers.Remove(observer);
 
-        public void Confirmar(Pedido pedido) 
+        public void Confirmar(Pedido pedido)
         {
+            var subtotal = pedido.Items.Sum(i => i.Total);  
             Notificar(pedido);
         }
 

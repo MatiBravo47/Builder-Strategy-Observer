@@ -50,7 +50,9 @@ namespace Builder
             // Calcular el total
             var subtotal = _pedido.Items.Sum(i => i.Total);
             var costoEnvio = _envio.CalcularCosto(_pedido);
-            _pedido.Total = (int)(subtotal + costoEnvio);  // ← Agregar esto
+            _pedido.Total = (int)(subtotal + costoEnvio);
+
+            Reset();
             return _pedido;
 
         }
